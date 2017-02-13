@@ -38,6 +38,6 @@ A Fortran 90 implementation of the paper *EdgeDetectPFI: an algorithm for  autom
 - readme.md         : this file  
 - LICENSE           : license term
 - EdgeDetectPFI.f90 : source code (in Fortran 90)
-- ViewCSV.m         : a matlab/octave script to view input/output data generated from EdgeDetect.f90
+- ViewCSV.m         : a matlab/octave script to view input/output data generated from EdgeDetectPFI.f90
 - input.csv         : test data (synthetic example from the manuscript)
 - output.csv        : expected output data from file input.csv above
