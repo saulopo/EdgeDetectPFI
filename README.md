@@ -1,5 +1,7 @@
 # EdgeDetectPFI
-A Fortran 90 implementation of the paper *EdgeDetectPFI: an algorithm for  automatic edge detection in potential field anomaly images - application to  dike-like magnetic structures*, accepted for publication in Computers &amp; Geosciences 
+A Fortran 90 implementation of the paper *EdgeDetectPFI: an algorithm for  automatic edge detection in potential field anomaly images - application to  dike-like magnetic structures*, published in Computers &amp; Geosciences
+
+[http://dx.doi.org/]
 
 **Authors:**  
 * Saulo P. Oliveira [saulopo@ufpr.br]
@@ -10,7 +12,7 @@ A Fortran 90 implementation of the paper *EdgeDetectPFI: an algorithm for  autom
 
 1. Compile the file EdgeDetect.f90. Please use an optimization compiler  option, if available. In a linux distribution with gfortran installed, use
 
- gfortran -O3 EdgeDetect.f90
+ gfortran -O3 EdgeDetectPFI.f90
 
 2. Make sure the file input.dat provided in this package is in the same folder as the fortran file.
    If you intend to use your own input data, please save it as a CSV (Comma Separated Values) file with four columns, namely:
