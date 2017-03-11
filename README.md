@@ -1,7 +1,7 @@
 # EdgeDetectPFI
 A Fortran 90 implementation of the paper *EdgeDetectPFI: an algorithm for  automatic edge detection in potential field anomaly images - application to  dike-like magnetic structures*, published in Computers &amp; Geosciences
 
-[http://dx.doi.org/]
+[http://dx.doi.org/10.1016/j.cageo.2017.02.006]
 
 **Authors:**  
 * Saulo P. Oliveira [saulopo@ufpr.br]
