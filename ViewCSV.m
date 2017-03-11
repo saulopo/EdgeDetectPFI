@@ -10,7 +10,8 @@
 % Ref: SP Oliveira, FJF Ferreira & J de Souza, "EdgeDetectPFI: an 
 % algorithm for automatic edge detection from magnetic anomalies", 
 % published in Computers & Geosciences
-% http://dx.doi.org/
+%
+% http://dx.doi.org/10.1016/j.cageo.2017.02.006
 
 io = input('Enter 0 to view input data and 1 to view output data: ');
 

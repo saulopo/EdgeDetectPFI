@@ -4,7 +4,8 @@
 !                detection in potential field anomaly images - application to
 !                dike-like magnetic structures" (SP Oliveira, FJF Ferreira, 
 !                and J de Souza), published in Computers & Geosciences
-!                http://dx.doi.org/
+!
+!                http://dx.doi.org/10.1016/j.cageo.2017.02.006
 
 program EdgeDetectPFI
 
